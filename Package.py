@@ -71,4 +71,5 @@ else:
     print('Failed?')
     
 sleep(3)
+exit()
 
