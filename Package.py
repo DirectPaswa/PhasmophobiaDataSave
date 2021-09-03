@@ -69,4 +69,6 @@ if os.path.exists(joinedFile):
 
 else: 
     print('Failed?')
+    
+sleep(3)
 
